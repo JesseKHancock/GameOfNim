@@ -1,0 +1,13 @@
+D:\Personal\Account\Deakin\2nd Year\Trimester 2\Artificial and Computational Intelligence\Assessments\Task 3\TheGameOfNim\bin\Debug\netcoreapp3.1\TheGameOfNim.exe
+D:\Personal\Account\Deakin\2nd Year\Trimester 2\Artificial and Computational Intelligence\Assessments\Task 3\TheGameOfNim\bin\Debug\netcoreapp3.1\TheGameOfNim.deps.json
+D:\Personal\Account\Deakin\2nd Year\Trimester 2\Artificial and Computational Intelligence\Assessments\Task 3\TheGameOfNim\bin\Debug\netcoreapp3.1\TheGameOfNim.runtimeconfig.json
+D:\Personal\Account\Deakin\2nd Year\Trimester 2\Artificial and Computational Intelligence\Assessments\Task 3\TheGameOfNim\bin\Debug\netcoreapp3.1\TheGameOfNim.runtimeconfig.dev.json
+D:\Personal\Account\Deakin\2nd Year\Trimester 2\Artificial and Computational Intelligence\Assessments\Task 3\TheGameOfNim\bin\Debug\netcoreapp3.1\TheGameOfNim.dll
+D:\Personal\Account\Deakin\2nd Year\Trimester 2\Artificial and Computational Intelligence\Assessments\Task 3\TheGameOfNim\bin\Debug\netcoreapp3.1\TheGameOfNim.pdb
+D:\Personal\Account\Deakin\2nd Year\Trimester 2\Artificial and Computational Intelligence\Assessments\Task 3\TheGameOfNim\obj\Debug\netcoreapp3.1\TheGameOfNim.csprojAssemblyReference.cache
+D:\Personal\Account\Deakin\2nd Year\Trimester 2\Artificial and Computational Intelligence\Assessments\Task 3\TheGameOfNim\obj\Debug\netcoreapp3.1\TheGameOfNim.AssemblyInfoInputs.cache
+D:\Personal\Account\Deakin\2nd Year\Trimester 2\Artificial and Computational Intelligence\Assessments\Task 3\TheGameOfNim\obj\Debug\netcoreapp3.1\TheGameOfNim.AssemblyInfo.cs
+D:\Personal\Account\Deakin\2nd Year\Trimester 2\Artificial and Computational Intelligence\Assessments\Task 3\TheGameOfNim\obj\Debug\netcoreapp3.1\TheGameOfNim.csproj.CoreCompileInputs.cache
+D:\Personal\Account\Deakin\2nd Year\Trimester 2\Artificial and Computational Intelligence\Assessments\Task 3\TheGameOfNim\obj\Debug\netcoreapp3.1\TheGameOfNim.dll
+D:\Personal\Account\Deakin\2nd Year\Trimester 2\Artificial and Computational Intelligence\Assessments\Task 3\TheGameOfNim\obj\Debug\netcoreapp3.1\TheGameOfNim.pdb
+D:\Personal\Account\Deakin\2nd Year\Trimester 2\Artificial and Computational Intelligence\Assessments\Task 3\TheGameOfNim\obj\Debug\netcoreapp3.1\TheGameOfNim.genruntimeconfig.cache
